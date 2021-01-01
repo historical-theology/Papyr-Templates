@@ -15,4 +15,6 @@ templates should be in a supported image format (PNG, JPEG, PDF, etc).
 -----------------
 There are Microsoft [Word](https://github.com/kaschau/Papyr-Templates/blob/main/Word-Template.dotx) and [PowerPoint](https://github.com/kaschau/Papyr-Templates/blob/main/PowerPoint-Template.pptx) as well as [Gimp](https://github.com/kaschau/Papyr-Templates/blob/main/Gimp-Template.xcf) template files available that are preset to the appropriate size. Download these and get creative.
 
-Feel free to contact me via the Issues tab and or email for ideas about better organization, or make a pull request.
+If you come across problems, raise an [Issue](https://github.com/kaschau/Papyr-Templates/issues) in the tab above, or if you have new ideas about the structure of this repo, or anything else, feel free to hop into the [Discussions](https://github.com/kaschau/Papyr-Templates/discussions).
+
+**Not offiliated with QuirkLogic in any way, just a dude.
