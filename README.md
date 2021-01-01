@@ -13,5 +13,4 @@ templates should be PNG/JPEG images.
 
 *Getting Started*
 -----------------
-There are Microsoft [Word](https://github.com/kaschau/Papyr-Templates/blob/main/Word-Template.dotx) and [PowerPoint](https://github.com/kaschau/Papyr-Templates/blob/main/PowerPoint-Template.pptx) template files available that are preset to the appropriate
-size. Download these and get creative.
+There are Microsoft [Word](https://github.com/kaschau/Papyr-Templates/blob/main/Word-Template.dotx) and [PowerPoint](https://github.com/kaschau/Papyr-Templates/blob/main/PowerPoint-Template.pptx) as well as [Gimp](https://github.com/kaschau/Papyr-Templates/blob/main/Gimp-Template.xcf) template files available that are preset to the appropriate size. Download these and get creative.
