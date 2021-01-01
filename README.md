@@ -8,7 +8,7 @@ Things To Consider
 Papyr resolution is 1650(W)x2200(H) at 207 DPI.
 
 Until more file types are supported by Papyr, stand alone files should be in PDF format, and background
-templates should be PNG images.
+templates should be PNG/JPEG images.
 
 
 *Getting Started*
