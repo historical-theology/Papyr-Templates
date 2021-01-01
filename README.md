@@ -1,6 +1,17 @@
 # Papyr-Templates
 A place to collect and share PDFs, images, etc. formated for the QuirkLogic Papyr.
 
-Participation highly encouraged from the Papyr community. 
+Everything is better with open source participation from a community, lets build one for Papyr. 
 
-Papyr resolution is 1650x2200 at 207 PPI
+Things To Consider
+------------------
+Papyr resolution is 1650(W)x2200(H) at 207 DPI.
+
+Until more file types are supported by Papyr, stand alone files should be in PDF format, and background
+templates should be PNG images.
+
+
+*Getting Started*
+-----------------
+There are Microsoft [Word](https://github.com/kaschau/Papyr-Templates/blob/main/Word-Template.dotx) and [PowerPoint](https://github.com/kaschau/Papyr-Templates/blob/main/PowerPoint-Template.pptx) template files available that are preset to the appropriate
+size. Download these and get creative.
